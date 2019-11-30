@@ -25,7 +25,7 @@ namespace Marcelo
     public Company(string name, double saveproject) { 
 
             _name = name; 
-            _saveproject = saveproject; 
+            _saveproject = saveproject;
 }
 
         //Testeado
